@@ -1,7 +1,7 @@
 <h2 align="left">Hi Everyone👋! My name is Michael and I'm a Project Manager & Game Producer, from Toronto, Canada</h2>
 
 ###
-🛜 currently working on my own [portfolio website](https://wilsanity.github.io/Michael-Wilson-Portfolio-Website/)<br>👨🏼‍🎓 studying Game Development & Interactive Media at Ontario Tech University<br>👨🏼‍💻 Been developing games since 2019<br>
+🛜 currently working on my own [portfolio website](https://wilsanity.github.io/Michael-Wilson-Portfolio-Website/)<br>👨🏼‍🎓 Recent Graduate from the Game Development & Interactive Media program at Ontario Tech University<br>👨🏼‍💻 Been developing games since 2019<br>
 
 ###
 
